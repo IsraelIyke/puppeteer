@@ -1,0 +1,23 @@
+{
+  "name": "puppeteer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/IsraelIyke/puppeteer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IsraelIyke/puppeteer/issues"
+  },
+  "homepage": "https://github.com/IsraelIyke/puppeteer#readme",
+  "dependencies": {
+    "puppeteer": "^19.0.0"
+  }
+}
